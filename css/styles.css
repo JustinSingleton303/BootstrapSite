@@ -1,3 +1,23 @@
 #title{
-  background-color: #ff4c68;  
+  background-color: #ff4c68;
+  /*font-family: 'Montserrat', sans-serif;*/
+  /*font-family: 'Ubuntu', sans-serif;*/
+}
+
+.meetDog{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  line-height: 1.5;
+}
+
+.myNavbar{
+    margin-left: 55%;
+}
+
+.centerDiv{
+  text-align: center;
+}
+
+.top-space{
+  margin-top: 100px;
 }
