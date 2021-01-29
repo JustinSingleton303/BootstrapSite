@@ -5,8 +5,8 @@
 }
 
 .meetDog{
-  font-family: 'Montserrat', sans-serif;
-  font-size: 3em;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 3rem;
   line-height: 1.5;
 }
 
@@ -19,5 +19,14 @@
 }
 
 .top-space{
-  margin-top: 100px;
+  margin-top: 200px;
+}
+
+.tindog-hue{
+  background-color: #ff4c68;
+}
+
+
+.container-fluid{
+  padding: 3% 15%;
 }
