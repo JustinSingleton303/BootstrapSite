@@ -26,6 +26,9 @@
   background-color: #ff4c68;
 }
 
+.btn-outline-light:hover{
+  color:#ff4c68;
+}
 
 .container-fluid{
   padding: 3% 15%;
