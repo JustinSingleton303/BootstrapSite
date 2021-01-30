@@ -17,9 +17,19 @@
 }
 
 .meetDog{
-  font-family: "Ubuntu", sans-serif;
+  color: white;
+  font-family: "Montserrat", sans-serif;
   font-size: 3rem;
+  font-weight: 900;
   line-height: 1.5;
+}
+
+.link-pad{
+  padding: 0 7%
+}
+
+.ml-auto-1{
+  margin-left: 60%;
 }
 
 .myNavbar{
@@ -32,6 +42,10 @@
 
 .top-space{
   margin-top: 100px;
+}
+
+.bottom-space-50{
+  margin-bottom: 50px;
 }
 
 .tindog-hue{
