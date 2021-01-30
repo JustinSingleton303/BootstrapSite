@@ -4,6 +4,18 @@
   /*font-family: 'Ubuntu', sans-serif;*/
 }
 
+#features{
+
+}
+
+.rotateimg30 {
+  -webkit-transform:rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
+
 .meetDog{
   font-family: "Ubuntu", sans-serif;
   font-size: 3rem;
@@ -19,7 +31,7 @@
 }
 
 .top-space{
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 .tindog-hue{
