@@ -8,6 +8,10 @@
   text-align:center;
 }
 
+#testimonials{
+  background-color: #ef8172;
+}
+
 body{
   font-family: 'Montserrat', sans-serif;
 }
@@ -20,11 +24,16 @@ h4{
 
 .feat-p{
   color:#8f8f8f;
+  font-weight: 300;
 }
 
-.feat-icons{
+.icon{
   color: #ef8172;
   padding-bottom: 20px;
+}
+
+.icon:hover{
+  color #ff4c68;
 }
 
 .rotateimg30 {
@@ -38,7 +47,7 @@ h4{
 .meetDog{
   color: white;
   font-family: "Montserrat", sans-serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 900;
   line-height: 1.5;
 }
