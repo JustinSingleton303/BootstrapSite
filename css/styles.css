@@ -5,7 +5,26 @@
 }
 
 #features{
+  text-align:center;
+}
 
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.feat-p{
+  color:#8f8f8f;
+}
+
+.feat-icons{
+  color: #ef8172;
+  padding-bottom: 20px;
 }
 
 .rotateimg30 {
@@ -25,15 +44,17 @@
 }
 
 .link-pad{
-  padding: 0 7%
-}
-
-.ml-auto-1{
-  margin-left: 60%;
+  font-family: Montserrat;
+  padding: 0 15px;
 }
 
 .myNavbar{
-    margin-left: 55%;
+    font-family: Ubuntu;
+    padding: 0 0 0 0;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
 }
 
 .centerDiv{
@@ -48,14 +69,15 @@
   margin-bottom: 50px;
 }
 
-.tindog-hue{
-  background-color: #ff4c68;
-}
-
 .btn-outline-light:hover{
   color:#ff4c68;
 }
 
 .container-fluid{
   padding: 3% 15%;
+}
+
+.mockup-img{
+  width: 90%;
+  height: 90%;
 }
