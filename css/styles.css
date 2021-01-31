@@ -10,6 +10,8 @@
 
 #testimonials{
   background-color: #ef8172;
+  font-family: 'Montserrat';
+  padding-top: 20px;
 }
 
 body{
@@ -27,13 +29,13 @@ h4{
   font-weight: 300;
 }
 
-.icon{
+.icon {
   color: #ef8172;
   padding-bottom: 20px;
 }
 
-.icon:hover{
-  color #ff4c68;
+.icon:hover {
+  color: #ff4c68;
 }
 
 .rotateimg30 {
