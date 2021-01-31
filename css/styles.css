@@ -10,19 +10,34 @@
 
 #testimonials{
   background-color: #ef8172;
+  color: #fff;
   font-family: 'Montserrat';
-  padding-top: 20px;
+  padding-top: 7% 15%;
+  text-align: center;
+}
+
+#press{
+  background-color: #ef8172;
 }
 
 body{
   font-family: 'Montserrat', sans-serif;
 }
 
+h2{
+  font-family: 'Montserrat';
+  font-weight:700;
+  font-size:3rem;
+}
+
 h4{
   font-family: 'Montserrat';
   font-size: 1.5rem;
   font-weight: 700;
+  line-height: 1.5;
 }
+
+/*  features   */
 
 .feat-p{
   color:#8f8f8f;
@@ -37,6 +52,8 @@ h4{
 .icon:hover {
   color: #ff4c68;
 }
+
+/* title section */
 
 .rotateimg30 {
   -webkit-transform:rotate(30deg);
@@ -89,6 +106,14 @@ h4{
 }
 
 .mockup-img{
-  width: 90%;
-  height: 90%;
+  width: 80%;
+  height: 80%;
+}
+
+/* testimonials */
+
+.testimonial-image{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
 }
