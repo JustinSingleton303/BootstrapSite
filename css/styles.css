@@ -18,6 +18,8 @@
 
 #press{
   background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 25px;
 }
 
 body{
@@ -114,6 +116,6 @@ h4{
 
 .testimonial-image{
   border-radius: 50%;
-  height: 150px;
+  padding: 7% 30px;
   width: 150px;
 }
