@@ -22,6 +22,22 @@
   padding-bottom: 25px;
 }
 
+#pricing{
+  text-align: center;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #fff;
+}
+
+#footer{
+  background-color: #ff4c68;
+  padding 0, 0, 0, 0;
+  margin-bottom: 0;
+}
+
 body{
   font-family: 'Montserrat', sans-serif;
 }
@@ -118,4 +134,19 @@ h4{
   border-radius: 50%;
   padding: 7% 30px;
   width: 150px;
+}
+
+.testimonial-text{
+  padding-top: 50px;
+}
+/* press */
+
+.press-img{
+  width: 17%;
+  margin: 10px;
+}
+
+/* footer */
+.foot-buttons{
+  margin: 0, 50px;
 }
