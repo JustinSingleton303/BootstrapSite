@@ -19,7 +19,7 @@
 #press{
   background-color: #ef8172;
   text-align: center;
-  padding-bottom: 25px;
+  padding-bottom: 40px;
 }
 
 #pricing{
@@ -29,11 +29,15 @@
 #cta{
   background-color: #ff4c68;
   text-align: center;
+  font-family:'Montserrat';
+  font-weight: 600;
   color: #fff;
+  padding: 0, 40px;
 }
 
 #footer{
   background-color: #ff4c68;
+  text-align: center;
   padding 0, 0, 0, 0;
   margin-bottom: 0;
 }
@@ -115,6 +119,10 @@ h4{
   margin-bottom: 50px;
 }
 
+.bottom-space-55{
+  margin-bottom: 57px;
+}
+
 .btn-outline-light:hover{
   color:#ff4c68;
 }
@@ -146,7 +154,20 @@ h4{
   margin: 10px;
 }
 
+/* cta */
+
+.cta-h3{
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  font-weight:600;
+}
+
 /* footer */
 .foot-buttons{
   margin: 0, 50px;
+}
+
+.foot-icons{
+  color: #fff;
+  padding: 5px;
 }
