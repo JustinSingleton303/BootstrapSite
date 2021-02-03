@@ -169,11 +169,11 @@ h4{
 
 .foot-icons{
   color: #fff;
-  padding: 15px, 10px;
+  margin: 10, 10, 10, 10;
 }
 
 .foot-icons:hover{
-  color: #aaaaaa;
+  color: #8f8f8f;
 }
 
 .foot-p{
